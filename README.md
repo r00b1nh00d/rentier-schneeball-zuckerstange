@@ -5,7 +5,7 @@ Wie soll das funktionieren? Ganz einfach!<br>
 - Rentier isst Zuckerstange <br>
 - Zuckerstange zerteilt Schneeball <br>
 - Schneball erschreckt Rentier <br>
-! [Simulator](https://github.com/r00b1nh00d/rentier-schneeball-zuckerstange/blob/master/Rentier-Schneeball-Zuckerstange.gif?=true)
+![Simulator](https://github.com/r00b1nh00d/rentier-schneeball-zuckerstange/blob/master/Rentier-Schneeball-Zuckerstange.gif?=true)
 ## ~@unplugged
 Wie funktioniert das Programm? <br>
 Wenn der Calliope ``||input:geschüttelt||`` wurde soll ``||math:zufällig||`` ein Schneeball, ein Rentier oder eine Zuckerstange ``||basic:angezeigt||`` werden. <br>
