@@ -17,6 +17,8 @@ Hier gibt es erstmal keine Lösung. Am besten du versuchst es erstmal selber.
 
 ## Schritt 2
 Hier findest du jetzt eine Lösung
+
+```blocks
 input.onGesture(Gesture.Shake, function () {
     if (Math.randomBoolean()) {
         basic.showLeds(`
@@ -44,3 +46,4 @@ input.onGesture(Gesture.Shake, function () {
             `)
     }
 })
+```
