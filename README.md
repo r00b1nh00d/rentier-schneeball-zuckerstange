@@ -16,7 +16,13 @@ Um diese zufällige Entscheidung zu programmieren benötigst du noch eine ``||lo
 Hier gibt es erstmal keine Lösung. Am besten du versuchst es erstmal selber.
 
 ## Schritt 2
-Hier findest du jetzt eine Lösung
+Hier findest du jetzt eine Lösung.
+Diese kannst du aber noch Stark verbessern.<br>
+Dir ist sicher aufgefallen, dass der Schneeball öfter angezeigt wird und die Zuckerstange am seltensten. <br>
+Kannst du dir vielleicht erklären weshalb? <br>
+**Kleiner Tipp** um jedem Symbol die gleiche Wahrscheinlichkeit zu geben, erstelle eine Variable namens Zufall. Auf ihr soll eine Zufallszahl zwischen 0 und 2 gespeichert werden. <br>
+In die wenn-dann-Bedingungen schiebst du jeweils einen Vergleich mit deiner Variable und den Zahlen 0 bis 2. <br>
+Sodass bei einer "0" der Schneball, bei einer "1" das Rentier und bei einer "2" die Zuckerstange kommt.
 
 ```blocks
 input.onGesture(Gesture.Shake, function () {
